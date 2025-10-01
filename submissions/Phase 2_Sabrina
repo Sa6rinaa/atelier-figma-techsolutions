@@ -1,0 +1,21 @@
+{
+  "student_info": {
+    "timestamp": "2025-10-01T08:37:50.453Z",
+    "qcm_phase": "phase2_conception"
+  },
+  "qcm_responses": {
+    "phase2": {
+      "q1_outils_figma": "b",
+      "q2_composants_instances": "b",
+      "q3_charte_graphique": "b",
+      "q4_hierarchie_visuelle": "c",
+      "q5_ergonomie_tablette": "c",
+      "q6_prototypage": "b"
+    }
+  },
+  "scores": {
+    "qcm_phase2_score": 6,
+    "qcm_phase2_total": 6,
+    "qcm_phase2_percentage": 100
+  }
+}
