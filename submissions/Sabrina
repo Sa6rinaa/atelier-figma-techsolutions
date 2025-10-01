@@ -1,0 +1,19 @@
+{
+  "student_info": {
+    "timestamp": "2025-10-01T08:34:55.217Z",
+    "qcm_phase": "phase1_analyse_ux"
+  },
+  "qcm_responses": {
+    "phase1": {
+      "q1_cas_utilisation": "b",
+      "q2_interview_thomas": "b",
+      "q3_priorisation": "c",
+      "q4_acteurs": "c"
+    }
+  },
+  "scores": {
+    "qcm_phase1_score": 4,
+    "qcm_phase1_total": 4,
+    "qcm_phase1_percentage": 100
+  }
+}
