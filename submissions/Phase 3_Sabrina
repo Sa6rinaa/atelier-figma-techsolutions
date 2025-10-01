@@ -1,0 +1,18 @@
+{
+  "student_info": {
+    "timestamp": "2025-10-01T08:39:24.564Z",
+    "qcm_phase": "phase3_presentation"
+  },
+  "qcm_responses": {
+    "phase3": {
+      "q1_justification_ux": "c",
+      "q2_loi_fitts": "c",
+      "q3_feedback_utilisateur": "c"
+    }
+  },
+  "scores": {
+    "qcm_phase3_score": 3,
+    "qcm_phase3_total": 3,
+    "qcm_phase3_percentage": 100
+  }
+}
