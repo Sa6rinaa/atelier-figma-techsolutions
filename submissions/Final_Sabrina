@@ -1,0 +1,30 @@
+{
+  "student_info": {
+    "timestamp": "2025-10-01T08:40:28.690Z",
+    "qcm_phase": "final_synthese",
+    "atelier_complete": true
+  },
+  "qcm_responses": {
+    "final": {
+      "q1_methodologie_ux": "b",
+      "q2_outils_collaboratifs": "b",
+      "q3_mesure_succes": "b",
+      "q4_iteration_design": "b"
+    }
+  },
+  "scores": {
+    "qcm_final_score": 4,
+    "qcm_final_total": 4,
+    "qcm_final_percentage": 100
+  },
+  "atelier_summary": {
+    "total_phases_completed": 4,
+    "skills_acquired": [
+      "methodologie_ux",
+      "design_interface",
+      "justification_ux",
+      "competences_transversales"
+    ],
+    "atelier_status": "completed"
+  }
+}
